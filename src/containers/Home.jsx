@@ -7,8 +7,8 @@ const Home = () => (
   <>
     <Helmet>
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@TU_USER" />
-      <meta name="twitter:creator" content="@TU_USER" />
+      <meta name="twitter:site" content="@rogeliope" />
+      <meta name="twitter:creator" content="@rogeliope" />
       <meta name="twitter:title" content="Platzi Conf Store" />
       <meta name="twitter:description" content="Platzi Conf Store" />
       <meta
